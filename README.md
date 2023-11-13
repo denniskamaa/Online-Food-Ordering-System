@@ -35,3 +35,5 @@ For screenshots [click here](https://winston-dsouza.github.io/#projects)
 [FoodyOrder](https://github.com/winston-dsouza/Online-Food-Ordering-System/tree/master/FoodyOrder) folder is order retrieve App code*
 
 This is a test application 
+We will run this on an ec2 instance.
+
